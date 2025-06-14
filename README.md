@@ -12,3 +12,10 @@ Searching for students is simplified with a roll number-based search function, w
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/71d69480-100a-4a1e-96a5-7ba89234d5df)
+![Image](https://github.com/user-attachments/assets/f2a95daf-f4ba-4833-86f3-b09487af29f8)
+![Image](https://github.com/user-attachments/assets/52737615-9623-4d6b-8ba9-54671dab246e)
+![Image](https://github.com/user-attachments/assets/eb9e333f-f0d8-48a7-829f-c79780cd835a)
+![Image](https://github.com/user-attachments/assets/ac89598a-8ec9-4915-bdfd-4dcccc63944e)
+![Image](https://github.com/user-attachments/assets/d4caa8af-5c2c-439f-aad1-fa5078f885d0)
+![Image](https://github.com/user-attachments/assets/54e4ea25-8cb2-4bb5-a6f7-b80615440746)
